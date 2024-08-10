@@ -1,2 +1,2 @@
 # jam
-jamuna is good person
+capstone project
