@@ -1,2 +1,2 @@
-# jam
+
 capstone project
